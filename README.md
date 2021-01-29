@@ -51,6 +51,7 @@ carros, economia, educacao, esporte, musica, politica
 https://classificacao-noticias.herokuapp.com/?query=<mensagem>
 
 Modelo ModeloClassificacaoNoticias.ipynb
+
 API na pasta apinoticias
 
 

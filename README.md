@@ -44,10 +44,14 @@ Conteúdo textual que vai gerar com base feature, variável e derivativo
 
 __Nota:__ Sempre começao com um processo simples e ir aperfeiçoando o processo.
 
+## API de exemplo - Classificação de conteúdo
+No parâmetro query, informe o título da notícia e o algorítmo tentara classificar em:
+carros, economia, educacao, esporte, musica, politica
 
+https://classificacao-noticias.herokuapp.com/?query=<mensagem>
 
-
-
+Modelo ModeloClassificacaoNoticias.ipynb
+API na pasta apinoticias
 
 
 

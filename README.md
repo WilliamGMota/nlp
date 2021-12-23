@@ -54,6 +54,7 @@ Modelo ModeloClassificacaoNoticias.ipynb
 
 API na pasta apinoticias
 
-
-
-
+### Vídeos e referência para Estudo
+https://www.youtube.com/watch?v=ULmezlBTtQs&t=2393s
+https://github.com/lucasloami/automatic_brain
+wildml.com
